@@ -1,5 +1,11 @@
 # vLEI-EGF-v1.0-Interim-Update-Public-Review
 
+## Feedback
+
+Feedback can be provided from the following [link](https://github.com/trustoverip/vLEI-EGF-v1.0-Interim-Update-Public-Review/issues/new/choose) and select the appropriate issue template.
+
+## Documents
+
 _Qualified vLEI Issuer vLEI Credential Governance Framework_
 A document that details the requirements to enable this vLEI Credential to be issued by
 GLEIF to Qualified vLEI Issuers which allows the Qualified vLEI Issuers to issue, verify and
